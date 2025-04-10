@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @VitoriaArruda
-- 👀 I’m interested in tecnology
-- 🌱 I’m currently learning CSS, JavaScript and HTML
-- 💞️ I’m looking to collaborate on projects oppen source
+- 👋 Hi, I’m @arrudavit
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on projects open source
 - 📫 How to reach me https://www.linkedin.com/in/vitoriaarruda-/
